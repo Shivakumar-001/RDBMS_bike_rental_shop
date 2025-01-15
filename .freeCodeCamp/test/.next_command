@@ -44,3 +44,4 @@ echo -e "Bike1\nBike2\nBike3\nBike4" > inventory.txt
 sed -i '/000-0000,Bike1/d' rented_bikes.txt
 ./bike-shop.sh
 ./bike-shop.sh
+psql --username=freecodecamp --dbname=bikes
