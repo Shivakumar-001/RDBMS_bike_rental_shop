@@ -45,3 +45,4 @@ sed -i '/000-0000,Bike1/d' rented_bikes.txt
 ./bike-shop.sh
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=bikes
+./bike-shop.sh
