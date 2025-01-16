@@ -95,3 +95,8 @@ psql --username=freecodecamp --dbname=bikes
 ./bike-shop.sh
 ./bike-shop.sh
 psql --username=freecodecamp --dbname=bikes
+q
+./bike-shop.sh
+./bike-shop.sh
+./bike-shop.sh
+./bike-shop.sh
