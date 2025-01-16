@@ -162,3 +162,8 @@ git push -u origin main
 git@github.com:Shivakumar-001/RDBMS_bike_rental_shop.git
 git status
 git add .
+git commit -m"Building a bike rental shop"
+git push origin main
+git push origin main
+git status
+git add .
